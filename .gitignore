@@ -2,3 +2,4 @@
 .venv
 text_index/
 code_review/
+child_vector_db/
