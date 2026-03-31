@@ -1,3 +1,6 @@
 .env
 .venv
 text_index/
+naive_db/
+child_vector_db/
+.idea/
