@@ -3,3 +3,5 @@
 text_index/
 code_review/
 child_vector_db/
+naive_db/
+.idea/
